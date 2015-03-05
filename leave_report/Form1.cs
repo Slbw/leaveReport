@@ -14,7 +14,7 @@ namespace leave_report
     {
         public Form1()
         {
-            InitializeComponent();
+            InitializeComponent(); 
         }
     }
 }
